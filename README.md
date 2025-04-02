@@ -8,6 +8,8 @@
 - 📫 Reach me at : ankitagg@andrew.cmu.edu
 - 👨‍💻 Find more about me on my website - https://ankitaggarwal0.github.io/
 
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitAggarwal0)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitAggarwal0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
