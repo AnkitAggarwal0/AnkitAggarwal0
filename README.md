@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ankit Aggarwal
 # I am passionate about Robots 🤖 and Control Systems 🎛️
 
-- 🌱 I'm currrently pursuing an MS in Robotic Systems Development (MRSD) at Carnegie Mellon University
+- 🌱 I'm currently pursuing an MS in Robotic Systems Development (MRSD) at Carnegie Mellon University
 - 🔭 I’m currently working on my capstone under Dr. William 'Red' Whittaker - <a href ="https://github.com/Lunar-ROADSTER"> Lunar ROADSTER.</a>  Learn more about it <a href="https://mrsdprojects.ri.cmu.edu/2025teami/"> here</a>.
 - 🦾 My core interests lie in creating robots in unpredictable environments. This ranges from robots that operate in extra-terrestrial conditions or ones that aid humans in hard-to-access mining sites. 
 - 💻 I did my Bachelor's in Mechatronics at MIT Manipal, where I led a student team of undergraduates to build Mars Rover prototypes - <a href = "https://ankitaggarwal0.github.io/projects/3_project/"> Mars Rover Manipal </a>
