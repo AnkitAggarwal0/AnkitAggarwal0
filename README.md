@@ -7,6 +7,7 @@
 - 💻 I did my Bachelor's in Mechatronics at MIT Manipal, where I led a student team of undergraduates to build Mars Rover prototypes - <a href = "https://ankitaggarwal0.github.io/projects/3_project/"> Mars Rover Manipal </a>
 - 📫 Reach me at : ankitagg@andrew.cmu.edu
 - 👨‍💻 Find more about me on my website - https://ankitaggarwal0.github.io/
+- 📄 Check out my resume - <a href = "https://drive.google.com/file/d/1SZCQPxFGfr3uf_CeUOjeksnB2a9Ns3Zs/view?usp=sharing"> Resume </a>
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitAggarwal0)](https://github.com/anuraghazra/github-readme-stats)
